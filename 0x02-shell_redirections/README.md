@@ -1,1 +1,1 @@
-shell redirection, input and output redirection
+ a script that prints “Hello, World"
