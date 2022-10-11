@@ -1,1 +1,1 @@
-print Hello, World
+Create a script that creates an alias
